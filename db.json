@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "Day la phan body",
+      "publishedAt": "19-04-2023"
+    },
+    {
+      "title": "Post four",
+      "body": "Day la phan body",
+      "publishedAt": "19-04-2023",
+      "id": "xz4p4dC"
+    },
+    {
+      "title": "Post five  âsassasa",
+      "body": "Day la phan body",
+      "publishedAt": "19-04-2023",
+      "id": "gGmSX1Z"
+    },
+    {
+      "title": "Fixed",
+      "body": "Day la phan body da sua",
+      "publishedAt": "2022-12-12",
+      "id": "8FZyvI_"
+    },
+    {
+      "title": "Nguyen Tien Tu",
+      "body": "Alo mot hai ba test",
+      "publishedAt": "19-04-2023",
+      "id": "4ifMbdR"
+    },
+    {
+      "title": "Nguyen Tien Tu",
+      "body": "Alo mot hai ba test",
+      "publishedAt": "19-04-2023",
+      "id": "Jy5zJpz"
+    },
+    {
+      "id": "12",
+      "title": "Test 12",
+      "body": "okela",
+      "publishedAt": "2022-12-12"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyen Tien Tu",
+      "email": "nguyentientu112911@gmail.com"
+    },
+    {
+      "id": "1212",
+      "name": "Tu nguyen",
+      "email": "ngtu12131@gmiasasa"
+    },
+    {
+      "id": "21",
+      "name": "đâ",
+      "email": "aedaeaceq"
+    }
+  ]
+}
